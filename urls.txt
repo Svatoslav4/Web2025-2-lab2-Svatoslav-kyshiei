@@ -1,1 +1,2 @@
 http://backend.course#Svatoslav4
+http://backend.course?name=%22Святослав%22&github_name=Svatosav4&group=%22ФЕП23%22&subgroup=%22Підгрупа2%202%22
